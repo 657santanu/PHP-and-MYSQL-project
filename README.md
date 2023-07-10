@@ -1,1 +1,1 @@
-# PHP-and-MYSQL-project
+# fullstack-project-by-php-mysql
